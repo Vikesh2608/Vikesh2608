@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikesh2608
 - 👀 I’m interested in AI / Cloud
-- 🌱 I’m currently learning python and AWS Cloud 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PMP
+- 💞️ I’m looking to collaborate on Supply Chain Industries
 - 📫 How to reach me vikebairam@gmail.com
 
 <!---
